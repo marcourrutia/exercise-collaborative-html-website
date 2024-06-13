@@ -1,3 +1,15 @@
 body{
-    background: #BDBDBD;
+    background: #fdfcfc;
+}
+
+.tagline{
+    background-image:url("/website/assets/img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100vw;
+    height: 50vw;
+}
+.navigation{
+    margin: 0;
+    padding: 0;
 }
